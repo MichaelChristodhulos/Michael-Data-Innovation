@@ -1,2 +1,2 @@
 # bikeshare
-creating repository for all data sets which I analyzed it from I begin studying to now
+bikeshare is a python project run on the console for learning purpose python for data analysis
